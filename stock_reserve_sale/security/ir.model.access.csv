@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sale_stock_reserve_manager,stock.reserve manager,model_sale_stock_reserve,stock.group_stock_manager,1,1,1,1
+access_sale_stock_reserve_user,stock.reserve user,model_sale_stock_reserve,stock.group_stock_user,1,1,1,0
+access_sale_stock_reserve_all,stock.reserve all,model_sale_stock_reserve,base.group_user,1,0,0,0
